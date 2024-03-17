@@ -1,0 +1,41 @@
+! Ads - Amazon
+||adtago.s3.amazonaws.com
+||advice-ads.s3.amazonaws.com
+||advertising-api-eu.amazon.com
+advertising-api-eu.amazon.com
+
+! Ads - Google
+||afs.googlesyndication.com
+
+! Analytics - Google
+||analytics.google.com
+||click.googleanalytics.com
+
+! Error trackers - Bugsnag
+||bugsnag.com
+
+! Error trackers - Sentry
+||browser.sentry-cdn.com
+sentry-cdn.com
+||app.getsentry.com
+
+! Social tracking - Pinterest
+||widgets.pinterest.com
+
+! Social tracking - TikTok
+||ads-api.tiktok.com
+||ads-sg.tiktok.com
+||business-api.tiktok.com
+||ads.tiktok.com
+
+! Mix - Yahoo
+||udc.yahoo.com
+||udcm.yahoo.com
+||log.fc.yahoo.com
+||adtech.yahooinc.com
+
+Mix - Yandex
+||yandex.ru
+
+OEMs - Apple
+||advertising.apple.com

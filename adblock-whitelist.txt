@@ -1,1 +1,1 @@
-segment.com
+||app.segment.com
